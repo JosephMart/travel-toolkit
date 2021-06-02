@@ -1,6 +1,6 @@
 {
   "name": "flights",
-  "version": "0.0.0",
+  "version": "0.0.1-alpha.0",
   "description": "Flights wrapper designed for travel.",
   "keywords": [
     "travel"
