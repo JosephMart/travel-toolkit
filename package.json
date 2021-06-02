@@ -14,6 +14,7 @@
   },
   "scripts": {
     "publish": "lerna run tsc && lerna publish",
-    "lint": "npx prettier . --check"
+    "lint": "npx prettier . --check",
+    "test": "lerna run test"
   }
 }
