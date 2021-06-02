@@ -1,1 +1,5 @@
-export default class Flights {}
+export default class Flights {
+  add(a: number, b: number): number {
+    return a + b;
+  }
+}

@@ -1,4 +1,4 @@
-# `flights`
+# `@travel-toolkit/flights`
 
 > TODO: description
 

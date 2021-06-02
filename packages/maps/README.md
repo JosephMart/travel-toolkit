@@ -1,4 +1,4 @@
-# `maps`
+# `@travel-toolkit/maps`
 
 > TODO: description
 

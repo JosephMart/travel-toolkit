@@ -1,4 +1,4 @@
-# `hotels`
+# `@travel-toolkit/hotels`
 
 > TODO: description
 

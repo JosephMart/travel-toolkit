@@ -7,7 +7,11 @@
     "noLib": false,
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
-    "target": "es6",
+    "target": "esnext",
+    "alwaysStrict": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmitOnError": true,
     "sourceMap": true,
     "lib": ["es6"]
   },
