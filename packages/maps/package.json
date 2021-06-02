@@ -1,5 +1,5 @@
 {
-  "name": "maps",
+  "name": "@travel-toolkit/maps",
   "version": "0.0.1-alpha.0",
   "description": "Maps wrapper designed for travel.",
   "keywords": [
@@ -30,5 +30,6 @@
   },
   "bugs": {
     "url": "https://github.com/JosephMart/travel-toolkit/issues"
-  }
+  },
+  "gitHead": "51bab7ea78aa2bff4b900ad27a17457546f66132"
 }
