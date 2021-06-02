@@ -2,15 +2,18 @@
   "name": "root",
   "private": true,
   "devDependencies": {
-    "@types/mocha": "^8.2.2",
+    "@types/jest": "^26.0.23",
     "@types/node": "^15.6.1",
     "assert": "^2.0.0",
+    "jest": "^27.0.3",
     "lerna": "^4.0.0",
-    "mocha": "^8.4.0",
+    "prettier": "^2.3.0",
+    "ts-jest": "^27.0.2",
     "ts-node": "^10.0.0",
     "typescript": "^4.3.2"
   },
   "scripts": {
-    "publish": "lerna run tsc && lerna publish"
+    "publish": "lerna run tsc && lerna publish",
+    "lint": "npx prettier . --check"
   }
 }

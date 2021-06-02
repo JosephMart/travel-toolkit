@@ -26,8 +26,9 @@
   },
   "scripts": {
     "build": "tsc",
-    "test": "mocha",
-    "watch": "mocha --watch"
+    "test": "jest",
+    "watch": "jest --watch",
+    "coverage": "jest --coverage"
   },
   "bugs": {
     "url": "https://github.com/JosephMart/travel-toolkit/issues"
